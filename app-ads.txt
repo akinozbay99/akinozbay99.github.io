@@ -186,7 +186,5 @@ spotxchange.com, 149886, RESELLER, 7842df1d2fe2db34
 video.unrulymedia.com, 170071695, RESELLER
 video.unrulymedia.com, 3383599585, RESELLER, a670c89d4a324e47
 videoheroes.tv, 212499, RESELLER, 064bc410192443d8
-
-
-
-
+spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
+bidease.com, exchange-20, RESELLER
