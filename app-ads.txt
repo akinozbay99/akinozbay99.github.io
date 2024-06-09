@@ -361,3 +361,4 @@ themediagrid.com, FH3TKJ, RESELLER, 35d5010d7789b49d
 triplelift.com, 13883, RESELLER, 6c33edb13117fd86
 video.unrulymedia.com, 2464975885, RESELLER
 Xapads.com, 155860, RESELLER
+google.com, pub-8261799379866347, DIRECT, f08c47fec0942fa0
